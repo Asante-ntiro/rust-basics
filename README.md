@@ -1,2 +1,4 @@
 # rust-basics
-Code examples for learning Rust.
+## dot-safari-bootcamp-sessions
+
+* Code examples for learning Rust.
